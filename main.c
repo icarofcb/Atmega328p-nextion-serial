@@ -3,8 +3,8 @@
  *
  *			 dd/mm/yyyy
  *  Created: 10/18/2021 9:22:18 AM
- *  Author: Ícaro Fernando
- *	LinkedIn : https://www.linkedin.com/in/ícaro-fernando-46139919b/
+ *  Author: ï¿½caro Fernando
+ *	LinkedIn : https://www.linkedin.com/in/ï¿½caro-fernando-46139919b/
  *  GitHub   : https://github.com/icarofcb
  *
  */ 
@@ -80,7 +80,7 @@ char id_t0[] = "t0";
 
 char str_hello[] = "hello";
 
-char endLine[] = "ÿÿÿ";
+char endLine[] = "ï¿½ï¿½ï¿½";
 int val = 45;
 
 
@@ -88,7 +88,7 @@ int val = 45;
 /* 
  * T1_comp = (time(s) x freq) / prescaler, 
  * for a 12ms interval with a 256 prescaler
- * we have = 0.012 x 16000000 / 256 = 750;
+ * we have = 1 x 16000000 / 256 = 6250;
  */ 
 
 //===================// Timer function //===================//
