@@ -1,10 +1,10 @@
 /*
- *  Title: ADC SERIAL TIMER for general AVR
+ *  Title: Nextion serial 
  *
  *			 dd/mm/yyyy
- *  Created: 10/18/2021 9:22:18 AM
- *  Author: �caro Fernando
- *	LinkedIn : https://www.linkedin.com/in/�caro-fernando-46139919b/
+ *  Created: 21/05/2022 9:22:18 AM
+ *  Author: Icaro Fernando
+ *  LinkedIn : https://www.linkedin.com/in/�caro-fernando-46139919b/
  *  GitHub   : https://github.com/icarofcb
  *
  */ 
