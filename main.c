@@ -87,7 +87,7 @@ int val = 45;
 	
 /* 
  * T1_comp = (time(s) x freq) / prescaler, 
- * for a 12ms interval with a 256 prescaler
+ * for a 1s interval with a 256 prescaler
  * we have = 1 x 16000000 / 256 = 6250;
  */ 
 
